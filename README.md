@@ -53,6 +53,4 @@ This repo is organized into the following top-level components:
 
 
 ## 🛡️Audits
-The Protocol undergoes continuous audits and security reviews to the different components, especially the core infrastructure which includes smart contracts and zero-knowledge circuits. Information about audits can be found in the [audits](./audits) folder.
-
-[website]: https://world.org/world-id
+The Protocol undergoes continuous audits and security reviews to the different components, especially the core infrastructure which includes smart contracts and zero-knowledge circuits. Information about audits can be found in the [audits](./audits) fol: https://world.org/world-id
