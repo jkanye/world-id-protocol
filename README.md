@@ -1,4 +1,4 @@
-![](docs/header.jpg)
+
 
 # World ID
 
